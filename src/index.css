@@ -1,0 +1,12 @@
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
+/* body {
+	background-color: darkblue;
+} */
+.header{
+	display: flex;
+	justify-content: space-between;
+}
